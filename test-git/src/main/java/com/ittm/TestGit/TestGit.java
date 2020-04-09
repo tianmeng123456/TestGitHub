@@ -12,5 +12,6 @@ public class TestGit {
         System.out.println("这是张三修改的第七次代码");
         System.out.println("这是repo1进行的修改");
         System.out.println("这是TestGitHub进行第一次修改并向服务器提交");
+        System.out.println("这是TestGitHub进行第二次修改并向服务器提交");
     }
 }
