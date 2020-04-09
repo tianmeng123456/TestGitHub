@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("这是张三修改的第五次代码");
         System.out.println("这是张三修改的第六次代码");
         System.out.println("这是张三修改的第七次代码");
+        System.out.println("这是repo1进行的修改");
     }
 }
